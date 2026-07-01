@@ -1,0 +1,17 @@
+flower_definitions = [
+    ["daisy", "innocence and purity"],
+    ["rose", "love and passion"],
+    ["lily", "renewal and rebirth"],
+    ["tulip", "perfect love"],
+    ["sunflower", "adoration and loyalty"],
+    ["orchid", "beauty and strength"],
+    ["daffodil", "new beginnings"],
+    ["iris", "wisdom and hope"],
+    ["marigold", "grief and remembrance"],
+    ["lavender", "devotion and calmness"],
+    ["poppy", "eternal sleep and remembrance"],
+    ["carnation", "fascination and distinction"],
+    ["chrysanthemum", "loyalty and honesty"],
+    ["hyacinth", "sincerity and sport"],
+    ["peony", "prosperity and honor"],
+]
